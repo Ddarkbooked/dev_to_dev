@@ -1,0 +1,11 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+example/android/app/src/main/res
+example/ios/Runner/Assets.xcassets/
+example/
