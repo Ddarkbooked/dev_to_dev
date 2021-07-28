@@ -8,4 +8,6 @@ build/
 
 example/android/app/src/main/res
 example/ios/Runner/Assets.xcassets/
+
 example/
+test/

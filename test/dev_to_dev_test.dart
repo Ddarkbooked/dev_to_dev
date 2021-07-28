@@ -2,7 +2,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
-  const MethodChannel channel = MethodChannel('dev_to_dev');
+  const MethodChannel channel = MethodChannel('donaldark.com/devtodev');
 
   TestWidgetsFlutterBinding.ensureInitialized();
 
